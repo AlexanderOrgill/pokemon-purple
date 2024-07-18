@@ -1,10 +1,10 @@
-# Pokémon Yellow [![Build Status][ci-badge]][ci]
+# Pokémon Purple [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Yellow.
+This is a disassembly of Pokémon Yellow, edited to be a new pokemon version - pokemon purple
 
 It builds the following ROMs:
 
-- Pokemon Yellow (UE) [C][!].gbc  `sha1: cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1`
+- Pokemon Purple (UE) [C][!].gbc  `sha1: cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1`
 - YELLMONS.GB (debug build) `sha1: d44e96eddfbdad633cbe4e6e64915e9e198974b0`
 - Dmgapse0.h08.patch `sha1: f3346a5559d52c296b8feab0cdbbfb0e250ac161`
 
@@ -15,8 +15,7 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 - [**Wiki**][wiki] (includes [tutorials][tutorials])
 - [**Symbols**][symbols]
-
-You can find us on [Discord (pret, #pokered)](https://discord.gg/d5dubZ3).
+OG disassembler: [Discord (pret, #pokered)](https://discord.gg/d5dubZ3).
 
 For other pret projects, see [pret.github.io](https://pret.github.io/).
 
